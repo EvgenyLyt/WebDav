@@ -1,0 +1,12 @@
+D:\Универ\Курсовые работы\WebDav\WebDav\bin\x86\Debug\WebDav.exe.config
+D:\Универ\Курсовые работы\WebDav\WebDav\bin\x86\Debug\WebDav.exe
+D:\Универ\Курсовые работы\WebDav\WebDav\bin\x86\Debug\WebDav.pdb
+D:\Универ\Курсовые работы\WebDav\WebDav\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Универ\Курсовые работы\WebDav\WebDav\obj\x86\Debug\WebDav.csprojResolveAssemblyReference.cache
+D:\Универ\Курсовые работы\WebDav\WebDav\obj\x86\Debug\WebDav.LogIn.resources
+D:\Универ\Курсовые работы\WebDav\WebDav\obj\x86\Debug\WebDav.MainForm.resources
+D:\Универ\Курсовые работы\WebDav\WebDav\obj\x86\Debug\WebDav.Name.resources
+D:\Универ\Курсовые работы\WebDav\WebDav\obj\x86\Debug\WebDav.Properties.Resources.resources
+D:\Универ\Курсовые работы\WebDav\WebDav\obj\x86\Debug\WebDav.csproj.GenerateResource.Cache
+D:\Универ\Курсовые работы\WebDav\WebDav\obj\x86\Debug\WebDav.exe
+D:\Универ\Курсовые работы\WebDav\WebDav\obj\x86\Debug\WebDav.pdb
